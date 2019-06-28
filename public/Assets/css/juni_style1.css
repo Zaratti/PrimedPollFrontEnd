@@ -163,7 +163,6 @@
   transform: scale(1.03);
   background: white;
   border-color: grey;
-
 }
 .interest_holder:hover #interest_title{
  display: none;
@@ -184,6 +183,7 @@
     margin-bottom: 50px;
   }
 }
+
 @media (max-width: 768px){
     #phone_btn {
       display: block;

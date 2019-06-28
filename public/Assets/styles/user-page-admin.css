@@ -3,7 +3,7 @@
 }
 .user-page-interests{
 	border-radius: 4px;
-	height:25vh;
+	height:38vh;
 }
 .update-interests{
 	height:55vh;
@@ -97,6 +97,10 @@
 }
 .color-dark{
 	color:#5a6169
+}
+.btn-accent{
+	background-color: #f58731;
+	border: #f58731;
 }
 .btn-brand{
 	color: white;
